@@ -1,0 +1,6 @@
+@PatikaPratikIdentityAndDataProtection_HostAddress = http://localhost:5105
+
+GET {{PatikaPratikIdentityAndDataProtection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
